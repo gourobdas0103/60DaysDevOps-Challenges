@@ -1,1 +1,2 @@
-This line is from conflict-branch
+This line is from both branches - merging conflict manually
+
