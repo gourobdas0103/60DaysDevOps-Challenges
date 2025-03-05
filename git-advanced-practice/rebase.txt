@@ -1,1 +1,1 @@
-Git Rebase Notes
+Git Rebase Explained - Version B
