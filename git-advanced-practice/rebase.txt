@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git Rebase Explained - Version A
 =======
 Git Rebase Notes
 >>>>>>> a41a078 (Refactored Git hooks, rebase, and cherry-pick notes)
+=======
+Git Rebase Explained - Version B
+>>>>>>> f1d596f (Added notes on Git Rebase, Cherry-pick, and Git Hooks)
