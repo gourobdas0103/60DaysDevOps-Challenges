@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git Rebase Explained - Version A
+=======
+Git Rebase Notes
+>>>>>>> a41a078 (Refactored Git hooks, rebase, and cherry-pick notes)
