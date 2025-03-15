@@ -1,0 +1,346 @@
+2025-02-26T16:52:14.547900+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-26T16:52:14.547912+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-26T16:52:14.547931+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-26T16:52:14.554990+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-26T16:52:14.560043+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-26T16:52:14.564835+05:30 HP-Mint bluealsa[899]: ../../../gio/gdbusobjectmanagerserver.c:1123: Error registering manager at /org/bluez/hci0/battery: An object is already exported for the interface org.freedesktop.DBus.ObjectManager at /org/bluez/hci0/battery
+2025-02-26T16:52:14.565818+05:30 HP-Mint bluealsa: bluez.c:812: Couldn't register battery provider: GDBus.Error:org.bluez.Error.AlreadyExists: Provider already exists
+2025-02-26T16:52:18.478128+05:30 HP-Mint pipewire[1191]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-26T16:52:18.568724+05:30 HP-Mint wireplumber[1193]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-26T16:52:19.023078+05:30 HP-Mint wireplumber[1193]: <WpPortalPermissionStorePlugin:0x57b98ae77d10> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-26T16:52:24.838157+05:30 HP-Mint pipewire[1354]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-26T16:52:25.540135+05:30 HP-Mint wireplumber[1357]: <WpPortalPermissionStorePlugin:0x5a7a822cbb40> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-26T16:52:33.175646+05:30 HP-Mint org.telegram.desktop[1901]: Qt: Session management error: Could not open network socket
+2025-02-26T17:56:35.396691+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-26T17:57:05.695390+05:30 HP-Mint org.cinnamon.ScreenSaver[4212]: Error in sys.excepthook:
+2025-02-26T17:57:05.700465+05:30 HP-Mint org.cinnamon.ScreenSaver[4212]: Error in sys.excepthook:
+2025-02-26T17:57:05.700943+05:30 HP-Mint org.cinnamon.ScreenSaver[4212]: Error in sys.excepthook:
+2025-02-26T18:19:12.762581+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-26T18:19:43.067760+05:30 HP-Mint org.cinnamon.ScreenSaver[4798]: Error in sys.excepthook:
+2025-02-26T18:19:43.071887+05:30 HP-Mint org.cinnamon.ScreenSaver[4798]: Error in sys.excepthook:
+2025-02-26T18:19:43.072510+05:30 HP-Mint org.cinnamon.ScreenSaver[4798]: Error in sys.excepthook:
+2025-02-26T18:20:46.780527+05:30 HP-Mint touchegg[796]: libinput error: event6  - HS6209 2.4G Wireless Receiver Mouse: client bug: event processing lagging behind by 41ms, your system is too slow
+2025-02-26T19:00:09.460899+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-26T19:00:09.460908+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-26T19:00:09.460923+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.460942+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.461027+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.461051+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.461069+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.461085+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.839861+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-26T19:00:09.839867+05:30 HP-Mint kernel: ata2: SError: { UnrecovData Handshk }
+2025-02-26T19:00:09.839885+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.839951+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.839967+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.839984+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840005+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840024+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840048+05:30 HP-Mint kernel:          res 40/00:00:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840117+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840142+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840161+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840180+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840199+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840221+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:09.840504+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:15.401568+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-26T19:00:15.401573+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-26T19:00:15.401582+05:30 HP-Mint kernel:          res 40/00:00:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:15.401591+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:15.401602+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:15.401622+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200204+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-26T19:00:24.200216+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-26T19:00:24.200248+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200285+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200323+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200358+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200392+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200424+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200455+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200486+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200517+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200549+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200583+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200661+05:30 HP-Mint kernel:          res 40/00:ff:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200698+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200735+05:30 HP-Mint kernel:          res 40/00:00:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200776+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200812+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200851+05:30 HP-Mint kernel:          res 40/00:ff:80:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.200891+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201130+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201168+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201204+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201241+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201282+05:30 HP-Mint kernel:          res 40/00:00:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201320+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201361+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201410+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201448+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201486+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201523+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201561+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201674+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:00:24.201712+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-26T19:12:56.550941+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-26T19:12:56.550967+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-26T19:12:56.551017+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-26T19:12:56.567180+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-26T19:12:56.580518+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-26T19:13:00.697848+05:30 HP-Mint pipewire[1168]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-26T19:13:00.789459+05:30 HP-Mint wireplumber[1170]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-26T19:13:01.245089+05:30 HP-Mint wireplumber[1170]: <WpPortalPermissionStorePlugin:0x60fd593833e0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-26T19:13:08.876799+05:30 HP-Mint pipewire[1334]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-26T19:13:09.323614+05:30 HP-Mint wireplumber[1337]: <WpPortalPermissionStorePlugin:0x5c94244d6f40> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-26T19:13:15.971075+05:30 HP-Mint org.telegram.desktop[1943]: Qt: Session management error: Could not open network socket
+2025-02-26T19:23:31.254369+05:30 HP-Mint gvfsd-network[4348]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-26T19:23:31.302523+05:30 HP-Mint gvfsd-network[4348]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: mountpoint for org.gtk.vfs.mountpoint_wsdd already running
+2025-02-26T22:14:37.598438+05:30 HP-Mint gvfsd-network[4348]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T00:36:57.729663+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-27T00:37:28.121997+05:30 HP-Mint org.cinnamon.ScreenSaver[10322]: Error in sys.excepthook:
+2025-02-27T00:37:28.129370+05:30 HP-Mint org.cinnamon.ScreenSaver[10322]: Error in sys.excepthook:
+2025-02-27T00:37:28.129964+05:30 HP-Mint org.cinnamon.ScreenSaver[10322]: Error in sys.excepthook:
+2025-02-27T02:10:15.598896+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-27T02:10:45.917149+05:30 HP-Mint org.cinnamon.ScreenSaver[14197]: Error in sys.excepthook:
+2025-02-27T02:10:45.920897+05:30 HP-Mint org.cinnamon.ScreenSaver[14197]: Error in sys.excepthook:
+2025-02-27T02:10:45.922185+05:30 HP-Mint org.cinnamon.ScreenSaver[14197]: Error in sys.excepthook:
+2025-02-27T02:34:36.613709+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-27T02:35:06.892545+05:30 HP-Mint org.cinnamon.ScreenSaver[15151]: Error in sys.excepthook:
+2025-02-27T02:35:06.895369+05:30 HP-Mint org.cinnamon.ScreenSaver[15151]: Error in sys.excepthook:
+2025-02-27T02:35:06.895744+05:30 HP-Mint org.cinnamon.ScreenSaver[15151]: Error in sys.excepthook:
+2025-02-27T16:30:37.093713+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-27T16:30:37.093739+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-27T16:30:37.093770+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-27T16:30:37.102019+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-27T16:30:37.109404+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-27T16:30:45.452216+05:30 HP-Mint pipewire[1186]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-27T16:30:45.538982+05:30 HP-Mint wireplumber[1188]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-27T16:30:45.971108+05:30 HP-Mint wireplumber[1188]: <WpPortalPermissionStorePlugin:0x6047fadb9440> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-27T16:31:30.579729+05:30 HP-Mint pipewire[1345]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-27T16:31:31.002174+05:30 HP-Mint wireplumber[1348]: <WpPortalPermissionStorePlugin:0x57476a9eb610> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-27T16:31:37.540294+05:30 HP-Mint org.telegram.desktop[1889]: Qt: Session management error: Could not open network socket
+2025-02-27T17:18:16.709705+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T17:18:16.741038+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: mountpoint for org.gtk.vfs.mountpoint_wsdd already running
+2025-02-27T17:29:46.867711+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T17:29:55.078323+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T17:30:32.020079+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T17:30:32.213243+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: mountpoint for org.gtk.vfs.mountpoint_wsdd already running
+2025-02-27T17:32:55.625226+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T17:58:01.359608+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T18:01:13.498219+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T18:19:49.298320+05:30 HP-Mint touchegg[785]: libinput error: client bug: timer event6 debounce short: scheduled expiry is in the past (-29ms), your system is too slow
+2025-02-27T18:46:44.952488+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T18:48:23.973195+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T18:59:49.247593+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:00:08.396157+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-27T19:00:08.396167+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-27T19:00:08.396183+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.396202+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.396297+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.396341+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.396385+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.396459+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.397018+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:08.397208+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:09.622663+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-27T19:00:09.622670+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-27T19:00:09.622686+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:09.622704+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:09.622781+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:09.622798+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:09.622816+05:30 HP-Mint kernel:          res 40/00:01:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:09.622832+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:12.686648+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-27T19:00:12.686659+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-27T19:00:12.686689+05:30 HP-Mint kernel:          res 40/00:ff:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:12.686737+05:30 HP-Mint kernel:          res 40/00:00:00:4f:c2/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:13.369682+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-27T19:00:13.369697+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-27T19:00:13.369735+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:00:13.369802+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-27T19:02:58.126260+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:27:16.849144+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:28:11.243514+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:28:50.827878+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:30:58.883866+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:53:00.436209+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T19:53:17.909690+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T20:10:14.628641+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T20:39:55.096634+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T20:40:24.687730+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T21:56:46.196854+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-27T21:57:16.419563+05:30 HP-Mint org.cinnamon.ScreenSaver[14569]: Error in sys.excepthook:
+2025-02-27T21:57:16.420739+05:30 HP-Mint org.cinnamon.ScreenSaver[14569]: Error in sys.excepthook:
+2025-02-27T21:57:16.420872+05:30 HP-Mint org.cinnamon.ScreenSaver[14569]: Error in sys.excepthook:
+2025-02-27T22:27:55.506775+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-27T22:28:25.721024+05:30 HP-Mint org.cinnamon.ScreenSaver[16369]: Error in sys.excepthook:
+2025-02-27T22:28:25.721933+05:30 HP-Mint org.cinnamon.ScreenSaver[16369]: Error in sys.excepthook:
+2025-02-27T22:28:25.722032+05:30 HP-Mint org.cinnamon.ScreenSaver[16369]: Error in sys.excepthook:
+2025-02-27T23:12:36.770214+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T23:44:04.392069+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-27T23:49:01.021121+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T00:05:40.245011+05:30 HP-Mint touchegg[785]: libinput error: event6  - HS6209 2.4G Wireless Receiver Mouse: client bug: event processing lagging behind by 30ms, your system is too slow
+2025-02-28T00:07:22.110167+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T00:19:03.679137+05:30 HP-Mint gvfsd-network[4947]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T00:35:09.999530+05:30 HP-Mint touchegg[785]: libinput error: event9  - Synaptics TM3127-001: kernel bug: Touch jump detected and discarded.
+2025-02-28T00:35:10.045356+05:30 HP-Mint touchegg[785]: libinput error: event9  - Synaptics TM3127-001: kernel bug: Touch jump detected and discarded.
+2025-02-28T00:35:10.368065+05:30 HP-Mint touchegg[785]: libinput error: event9  - Synaptics TM3127-001: kernel bug: Touch jump detected and discarded.
+2025-02-28T00:38:04.409465+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-28T00:38:04.409485+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-28T00:38:04.409510+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-28T00:38:04.414736+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-28T00:38:04.424208+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-28T00:38:09.021408+05:30 HP-Mint bluealsa[963]: ../../../gio/gdbusobjectmanagerserver.c:1123: Error registering manager at /org/bluez/hci0/battery: An object is already exported for the interface org.freedesktop.DBus.ObjectManager at /org/bluez/hci0/battery
+2025-02-28T00:38:09.022626+05:30 HP-Mint bluealsa: bluez.c:812: Couldn't register battery provider: GDBus.Error:org.bluez.Error.AlreadyExists: Provider already exists
+2025-02-28T00:38:12.832581+05:30 HP-Mint pipewire[1209]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:38:12.924122+05:30 HP-Mint wireplumber[1211]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-28T00:38:13.368225+05:30 HP-Mint wireplumber[1211]: <WpPortalPermissionStorePlugin:0x5de4e35ff440> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:38:23.565326+05:30 HP-Mint pipewire[1379]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:38:24.059409+05:30 HP-Mint wireplumber[1382]: <WpPortalPermissionStorePlugin:0x643f0ce59ce0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:38:31.704699+05:30 HP-Mint org.telegram.desktop[1923]: Qt: Session management error: Could not open network socket
+2025-02-28T00:49:11.093087+05:30 HP-Mint xdg-desktop-por[1989]: Caught PipeWire error: connection error
+2025-02-28T00:49:11.292626+05:30 HP-Mint pipewire[9172]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:49:11.896727+05:30 HP-Mint wireplumber[9174]: <WpPortalPermissionStorePlugin:0x63376ea58bc0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:49:11.980000+05:30 HP-Mint wireplumber[9174]: <WpPortalPermissionStorePlugin:0x63376ea58bc0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:51:25.749532+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-28T00:51:25.749543+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-28T00:51:25.749560+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-28T00:51:25.754769+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-28T00:51:25.762584+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-28T00:51:26.097173+05:30 HP-Mint bluealsa[865]: ../../../gio/gdbusobjectmanagerserver.c:1123: Error registering manager at /org/bluez/hci0/battery: An object is already exported for the interface org.freedesktop.DBus.ObjectManager at /org/bluez/hci0/battery
+2025-02-28T00:51:26.098258+05:30 HP-Mint bluealsa: bluez.c:812: Couldn't register battery provider: GDBus.Error:org.bluez.Error.AlreadyExists: Provider already exists
+2025-02-28T00:51:33.832003+05:30 HP-Mint pipewire[1192]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:51:33.915826+05:30 HP-Mint wireplumber[1195]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-28T00:51:34.352814+05:30 HP-Mint wireplumber[1195]: <WpPortalPermissionStorePlugin:0x6197751340e0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:51:44.088680+05:30 HP-Mint pipewire[1363]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:51:44.554814+05:30 HP-Mint wireplumber[1365]: <WpPortalPermissionStorePlugin:0x60d8524b8e20> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:51:52.372813+05:30 HP-Mint org.telegram.desktop[1968]: Qt: Session management error: Could not open network socket
+2025-02-28T00:57:33.296843+05:30 HP-Mint xdg-desktop-por[2044]: Caught PipeWire error: connection error
+2025-02-28T00:57:33.522898+05:30 HP-Mint pipewire[9293]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:57:34.105482+05:30 HP-Mint wireplumber[9295]: <WpPortalPermissionStorePlugin:0x642987b89da0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:57:34.226786+05:30 HP-Mint wireplumber[9295]: <WpPortalPermissionStorePlugin:0x642987b89da0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:59:11.932552+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-28T00:59:11.932581+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-28T00:59:11.932889+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-28T00:59:11.946030+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-28T00:59:11.964584+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-28T00:59:20.604178+05:30 HP-Mint pipewire[1184]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:59:20.685261+05:30 HP-Mint wireplumber[1187]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-28T00:59:21.128030+05:30 HP-Mint wireplumber[1187]: <WpPortalPermissionStorePlugin:0x58f0e2177d90> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:59:26.852273+05:30 HP-Mint pipewire[1354]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T00:59:27.436638+05:30 HP-Mint wireplumber[1357]: <WpPortalPermissionStorePlugin:0x5595fde11990> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T00:59:35.266951+05:30 HP-Mint org.telegram.desktop[1897]: Qt: Session management error: Could not open network socket
+2025-02-28T01:11:13.887766+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-28T01:11:13.887786+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-28T01:11:13.887818+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-28T01:11:13.909156+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-28T01:11:13.912916+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-28T01:11:22.390561+05:30 HP-Mint pipewire[1182]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T01:11:22.475541+05:30 HP-Mint wireplumber[1184]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-28T01:11:22.916679+05:30 HP-Mint wireplumber[1184]: <WpPortalPermissionStorePlugin:0x6242c2c3e050> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T01:11:28.642774+05:30 HP-Mint pipewire[1349]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T01:11:29.096706+05:30 HP-Mint wireplumber[1351]: <WpPortalPermissionStorePlugin:0x61b9dc6883b0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T01:11:36.800306+05:30 HP-Mint org.telegram.desktop[1895]: Qt: Session management error: Could not open network socket
+2025-02-28T01:22:37.686121+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T01:22:37.780677+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: mountpoint for org.gtk.vfs.mountpoint_wsdd already running
+2025-02-28T01:32:39.893479+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T01:47:53.085781+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T02:42:59.203143+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T02:46:38.417476+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T02:55:13.569951+05:30 HP-Mint gvfsd-network[4652]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T16:16:06.095034+05:30 HP-Mint kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.XHC.RHUB.TPLD], AE_NOT_FOUND (20230628/psargs-332)
+2025-02-28T16:16:06.095060+05:30 HP-Mint kernel: ACPI Error: Aborting method \_SB.UBTC.CR01._PLD due to previous error (AE_NOT_FOUND) (20230628/psparse-529)
+2025-02-28T16:16:06.095098+05:30 HP-Mint kernel: acpi PNP0A08:00: _OSC: platform retains control of PCIe features (AE_ERROR)
+2025-02-28T16:16:06.117795+05:30 HP-Mint kernel: RAS: Correctable Errors collector initialized.
+2025-02-28T16:16:06.119445+05:30 HP-Mint kernel: bluetooth hci0: Direct firmware load for rtl_bt/rtl8723b_config.bin failed with error -2
+2025-02-28T16:16:14.479746+05:30 HP-Mint pipewire[1182]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T16:16:14.562385+05:30 HP-Mint wireplumber[1184]: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+2025-02-28T16:16:15.019328+05:30 HP-Mint wireplumber[1184]: <WpPortalPermissionStorePlugin:0x5801b96a4ab0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T16:16:22.970128+05:30 HP-Mint pipewire[1350]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+2025-02-28T16:16:23.446781+05:30 HP-Mint wireplumber[1352]: <WpPortalPermissionStorePlugin:0x6439e91d7dd0> Failed to call Lookup: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for camera
+2025-02-28T16:16:31.195006+05:30 HP-Mint org.telegram.desktop[1894]: Qt: Session management error: Could not open network socket
+2025-02-28T16:20:55.983162+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T16:20:56.118340+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: mountpoint for org.gtk.vfs.mountpoint_wsdd already running
+2025-02-28T16:22:24.629203+05:30 HP-Mint touchegg[769]: libinput error: client bug: timer event6 debounce short: scheduled expiry is in the past (-21ms), your system is too slow
+2025-02-28T16:23:24.534145+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T17:26:06.605488+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T17:26:40.198791+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T17:31:03.806320+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T17:37:44.283531+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T17:49:42.510649+05:30 HP-Mint touchegg[769]: libinput error: event6  - HS6209 2.4G Wireless Receiver Mouse: client bug: event processing lagging behind by 43ms, your system is too slow
+2025-02-28T17:59:10.789574+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T18:10:26.722295+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T18:15:43.338828+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T18:45:12.850065+05:30 HP-Mint cinnamon-screensaver-pam-helper: pam_ecryptfs: seteuid error
+2025-02-28T18:45:43.047721+05:30 HP-Mint org.cinnamon.ScreenSaver[14811]: Error in sys.excepthook:
+2025-02-28T18:45:43.048666+05:30 HP-Mint org.cinnamon.ScreenSaver[14811]: Error in sys.excepthook:
+2025-02-28T18:45:43.048809+05:30 HP-Mint org.cinnamon.ScreenSaver[14811]: Error in sys.excepthook:
+2025-02-28T19:00:13.893044+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-28T19:00:13.893048+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-28T19:00:13.893057+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:00:13.893068+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:00:13.893085+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:00:15.296226+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-28T19:00:15.296237+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-28T19:00:15.296270+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/40 Emask 0x10 (ATA bus error)
+2025-02-28T19:00:15.296333+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.241478+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-28T19:02:28.241482+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-28T19:02:28.241509+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.241517+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.241524+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.241533+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243068+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243080+05:30 HP-Mint kernel:          res 40/00:01:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243097+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243113+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243125+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243136+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.243148+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244303+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244321+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244333+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244347+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244489+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244500+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244508+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244982+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:28.244992+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497372+05:30 HP-Mint kernel: ata2.00: irq_stat 0x08000000, interface fatal error
+2025-02-28T19:02:37.497386+05:30 HP-Mint kernel: ata2: SError: { UnrecovData CommWake Handshk }
+2025-02-28T19:02:37.497422+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497510+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497541+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497573+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497620+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497667+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497710+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:02:37.497857+05:30 HP-Mint kernel:          res 40/00:00:00:00:00/00:00:00:00:00/00 Emask 0x10 (ATA bus error)
+2025-02-28T19:10:01.756581+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T19:13:45.150544+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T19:18:45.880418+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T19:43:05.447676+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T19:46:17.514124+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T19:55:31.160150+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T20:00:22.564503+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T20:09:20.853108+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T20:43:45.396830+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T20:47:10.862889+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T20:51:56.735025+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:03:40.969706+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:05:32.716872+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:09:05.861981+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:24:08.274316+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:27:15.209586+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:28:11.368988+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:33:36.357656+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:45:21.589137+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:47:12.756731+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:50:08.987751+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T21:51:28.379551+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T22:12:05.416982+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T22:13:37.903751+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T22:14:19.746882+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.
+2025-02-28T22:14:59.945643+05:30 HP-Mint gvfsd-network[7233]: Couldn't create directory monitor on wsdd:///. Error: Automount failed: Failed to spawn the underlying wsdd daemon.

@@ -1,0 +1,15 @@
+Challenge1: ls -la --sort=time ~
+Challenge2:
+mkdir devops_challenge_day_1
+cd devops_challenge_day_1
+touch day1.txt
+challenge3: du -sh /var/log
+challenge4:
+sudo adduser devops_user
+sudo usermod -aG sudo devops_user
+Challenge5:
+sudo groupadd devops_team
+sudo usermod -aG devops_team devops_user
+Challenge6: chmod 600 day1.txt
+Challenge7: sudo find /etc -type f -mtime -7
+Challenge8: history | awk '{CMD[$2]++;} END {for (a in CMD) {print CMD[a] " " a;}}' | sort -nr | head -n 1
